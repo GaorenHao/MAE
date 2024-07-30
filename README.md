@@ -1,4 +1,4 @@
-# COMP0197-Applied Deep Learning
+# MAE-Applied Deep Learning
 
 ## Packages Used
 - torch==2.2
